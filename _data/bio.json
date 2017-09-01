@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yongnam Kim",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://techfolios.github.io/template/images/mypic.png",
+    "email": "Yong4@hawaii.edu",
+    "phone": "808-429-5242",
+    "website": "https://yongkim93.github.io",
+    "summary": "I am a undergraduate student of University of Hawaii at Manoa and studying Computer Science for B.A degree and also studying Academy of Creative Media: Animation for B.A degree as well. I am expecting to graduate in spring 2019 and planing to build a career in game development.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,18 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "yongkim93",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "yongnam-kim",
+        "url": "https://www.linkedin.com/in/yongnam-kim-630752146/"
       },
       {
         "network": "instagram",
@@ -39,14 +34,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "game development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "machine learning",
       "keywords": [
       ]
     },
