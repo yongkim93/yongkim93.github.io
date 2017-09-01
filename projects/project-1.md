@@ -2,28 +2,26 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+title: BigFish
+permalink: projects/bigfish
+date: 2014
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - game
+  - android
+  - java
+  - platform
+summary: first game I ever try to build.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is a first game of mine that I try to build android game for fun. Idea of this game is from my childhood memory that I used to play. basically you just swimming around and eat fishes that are smaller than your fish. if it touches bigger fish than yours would cause death. it seems easy but your fish grows tiny bit by eating other fish that you can't really tell your fish is bigger than others if they are about same size.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I spent most of the time building control features like virtual joystickm screen movement, and swimming speed. virtual joystick is actaully fully rendered by mathmetic equation so based on the angle and distance from the center actaully calcuate the speed, velocity, and friction. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+this game remains unfished because I don't have proper assets to implement. programming game from scratch took me about 25hrs but I can't find good assets to use on this. I tried to draw fish sprites so that I can publish on market and I wanted to see how much money I could get it from it. unfortunately I couldn't draw a single fish and just stop developing it.
 
 
 
