@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gold.gif
+image: images/gold64.png
 title: sprites
 permalink: projects/sprites
 date: 2016
