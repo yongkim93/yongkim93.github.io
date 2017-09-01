@@ -51,8 +51,8 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "C, C++, Java, Javascript, HTML/CSS, SQL, C#",
+      "level": "expert",
       "keywords": [
         "C",
         "C++",
@@ -77,9 +77,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2012-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,27 +88,24 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "ThankQ Pocha",
+      "position": "server",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Korean food",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "CopyExpress",
+      "position": "Document Specialist",
+      "website": "",
+      "startDate": "2013-05-01",
+      "endDate": "2016-12-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+       
       ]
     }
   ],
