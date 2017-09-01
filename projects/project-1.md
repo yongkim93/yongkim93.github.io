@@ -27,5 +27,6 @@ I spent most of the time building control features like virtual joystickm screen
 
 this game remains unfished because I don't have proper assets to implement. programming game from scratch took me about 25hrs but I can't find good assets to use on this. I tried to draw fish sprites so that I can publish on market and I wanted to see how much money I could get it from it. unfortunately I couldn't draw a single fish and just stop developing it.
 
+<a href="https://github.com/yongkim93/yongkim93.github.io/tree/master/images/project1">click here to see files</a>
 
 
