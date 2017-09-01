@@ -2,23 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: sprites
+permalink: projects/sprites
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - pixel art
+  - sprites
+  - game assets
+summary: I tried to learn pixel art using sprite program which I bought it from steam on sale.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+These are pixel art for my game that I drew when I bought a program called sprite on steam. I had a class which I had to post what I did for every week. I decied to try pixel art since I have unfinished game and kind of wanted to see how far I could learn from online. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Sprite program was pretty easy to use. However I couldn't use it well since I don't have any art background and I have lack of color sense that whatever I draw was like a drawing of a5 years old kid but I loved it.
