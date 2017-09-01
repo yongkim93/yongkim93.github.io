@@ -13,9 +13,13 @@ labels:
 summary: first game I ever try to build.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-</div>
+
+  <img class="ui image" src="../images/player_fish.png">
+  <img class="ui image" src="../images/black_fish.png">
+  <img class="ui image" src="../images/blue_fish.png">
+  <img class="ui image" src="../images/grown_fish.png">
+  <img class="ui image" src="../images/green_fish.png">
+
 
 This is a first game of mine that I try to build android game for fun. Idea of this game is from my childhood memory that I used to play. basically you just swimming around and eat fishes that are smaller than your fish. if it touches bigger fish than yours would cause death. it seems easy but your fish grows tiny bit by eating other fish that you can't really tell your fish is bigger than others if they are about same size.
 
