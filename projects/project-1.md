@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/menu.png
 title: BigFish
 permalink: projects/bigfish
 date: 2014
