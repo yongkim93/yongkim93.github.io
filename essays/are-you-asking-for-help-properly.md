@@ -21,6 +21,7 @@ asking for help isn't something you could do lightly because you are the one who
 <img class="ui image" src="../images/question2.png">
 https://stackoverflow.com/questions/30902811/enable-automatic-formatting-for-java-in-visual-studio-2015
 
+
 I found this question on StackOverflow. It has over 3k views with one answer that has with -4 points. I clicked this question it only because subject line was stupid. I mean really, if you have the programming background, you should know that Java doesn't run on Visual Studio which it made by Microsoft which competes with Oracle which has the license for Java. It didn't make sense at all. I clicked the question to see what he is asking for help.
 
 The guy downloaded Java extension for Visual Studio 2015 which published by Sam Harwell. His problem with this extension is that it doesn't seem to have IntelliSense. This guys post had 3k view but it has only one answer and it's not even proper answer. The guy who answered gave him a like that could lead to cite where Java extension could be found which already linked in the question. The problem is many people, like me, who saw this dumb subject line, clicked the post and walked away. that's why the post had 3k but has the poor ridiculous answer. so I'm going to advise few thing you should consider before posting a question.
