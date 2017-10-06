@@ -13,17 +13,17 @@ If you are a programmer or just started to learn a programming language, you hav
 
 First off, You need to know some of the HTML elements. by using Semantic UI for couple days, I realized you don't need to use all the HTML elements by the specific situation. I know you just want to read tedious explanation so I'll just start with HTML elements that you will need for now.
 
-<div> - this is the most essential element and you will use for almost everything.
+di> - this is the most essential element and you will use for almost everything.
 
-<a> - this is link element that user can click. it could refer to other website or make something to pop up.
+a - this is link element that user can click. it could refer to other website or make something to pop up.
 
-<p> - paragraph element. it's just for text.
+p - paragraph element. it's just for text.
 
-<h1> - header element. Big and Thick text for header.
+h1 - header element. Big and Thick text for header.
 
-<i> - icon element. you can use <div> but just for visibility, use this for icon.
+i - icon element. you can use <div> but just for visibility, use this for icon.
 
-I will assume, you already know how to add Semantic UI into your HTML (if not check this link https://semantic-ui.com/introduction/getting-started.html) and start with basic components.
+I will assume, you already know how to add Semantic UI into your HTML (if not check this link <a href="https://semantic-ui.com/introduction/getting-started.html">here</a>) and start with basic components.
 
 The first element you need to know is a container. A container is an element designed to contain page elements to a reasonable maximum width based on the size of a user's screen. Since screen size of devices is various, it is good to a good idea to wrap elements with a container element. If you want to check how it works, adds 'container' in the class in any HTML element and resize your browser, it will resize your component as it gets smaller.
 
