@@ -20,11 +20,11 @@ labels:
 
   He followed the requirement that has given and the client was very happy with the result. He did best he could do it in his job for the client and the company. it was ethical and professional, however before he jumps into that, he should've considered whether what he is building is ethical or unethical.
 
-<b>1.2 Avoid harm to others.</b> \- ACM Code of Ethics and Professional Conduct
+<b>"1.2 Avoid harm to others."</b> \- ACM Code of Ethics and Professional Conduct
 
   when he was working on the project, he knew it is pushing one medicine and it's specifically targeting teenage girls. I think it is enough reason for him to search more about the medicine before he starts to work on the project. I can't conclude the project was unethical because it could have saved thousands of teenage girls' life and one poor girl has died by its side effect or something else. However, Bill thinks it was unethical and there must be a good reason. in this case, working on a project not knowing its ethical or unethical was not ethical. 
   
-<b>2.4 Accept and provide appropriate professional review.</b> \- ACM Code of Ethics and Professional Conduct
+<b>"2.4 Accept and provide appropriate professional review."</b> \- ACM Code of Ethics and Professional Conduct
 
   what if you find the project is unethical and you are involved? I think giving up or resign from the company is least professional behave anyone could have because it's not ethical to the company, the client, and user because they are going to make it anyway. instead, you should talk with the company and the client why it is unethical and needed to be rearranged. maybe the company and the client are less pleasant the process and the result but you are eliminating unethical consequences that could happen like Bob’s experience.
 
