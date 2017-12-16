@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/squadify.png
 title: Squadify
-permalink: https://squadify.github.io/
+permalink: project4/squadify
 date: 2017
 labels:
   - squadify
