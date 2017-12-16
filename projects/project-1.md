@@ -17,7 +17,6 @@ summary: first game I ever try to build.
   <img class="ui image" src="../images/player_fish.png">
   <img class="ui image" src="../images/black_fish.png">
   <img class="ui image" src="../images/blue_fish.png">
-  <img class="ui image" src="../images/grown_fish.png">
   <img class="ui image" src="../images/green_fish.png">
 
 
