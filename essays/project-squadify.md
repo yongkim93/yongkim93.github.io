@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Project Squadify: be a new squad member
+title: Project Squadify - be a new squad member
 date: 2017-09-07
 labels:
   - squadify
@@ -12,15 +12,13 @@ labels:
   - UH Manoa
 ---
 
-<img class="ui image" src="../images/question1.png">
-
 <b>Introduction</b>
 
-It was a normal day of attending school, The president of Grey Hat Organization came to promote the recruitment of new members in my two ICS (Information and Computer Sciences) classes in one day. GHO Practices cyber defense and technology to understand and prevent cyber attacks. This organization is highly active in the community and, despite its subject, it's open to any students who are interested in cybersecurity. However, this organization is only well known among ICS students, like me, who has heard their activities and it's the only organization I know in the UH Manoa although The University of Manoa provides more than 200 current Registered Independent Organizations (RIOs). This experience of ours shows that the organizations are highly segregated by its subject and community and most of the students are unaware of its existence although many organizations are open to anyone. We, Squadify Organization, wanted to provide the easy way to find about Registered Independent Organizations and its activities to all students who have the same interest regardless of their professions. 
+It was a normal day of attending school, The president of <a href="http://squadify.meteorapp.com/club-page/523w8zvHPESPErf6E">Grey Hat Organization</a> came to promote the recruitment of new members in my two ICS (Information and Computer Sciences) classes in one day. GHO Practices cyber defense and technology to understand and prevent cyber attacks. This organization is highly active in the community and, despite its subject, it's open to any students who are interested in cybersecurity. However, this organization is only well known among ICS students, like me, who has heard their activities and it's the only organization I know in the UH Manoa although The University of Manoa provides more than 200 current <a href="http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php">Registered Independent Organizations</a> (RIOs). This experience of ours shows that the organizations are highly segregated by its subject and community and most of the students are unaware of its existence although many organizations are open to anyone. We, <a href="https://squadify.github.io/">Squadify Organization</a>, wanted to provide the easy way to find about Registered Independent Organizations and its activities to all students who have the same interest regardless of their professions. 
 
 <b>Squadify Overview</b>
 
-Squadify is the simple informational website that provides information and activities of Registered Independent Organizations (we call it squads). UH students who want to find information of squads can go to Squadify webpage and explorer all existing squads. Currently, Squadify provides 50 RIOs in UH Manoa and searching by interest for users who want to find the squad they are interested in.
+<a href="http://squadify.meteorapp.com/">Squadify</a> is the simple informational website that provides information and activities of Registered Independent Organizations (we call it squads). UH students who want to find information of squads can go to Squadify webpage and explorer all existing squads. Currently, Squadify provides 50 RIOs in UH Manoa and searching by interest for users who want to find the squad they are interested in.
 
 Squadify provides three-way to enter squad page which is spotlight, search, and list. 
 The squad spotlight is randomly chosen and shown from the list of RIOs so that students can take a chance to look at the variety of squads in different interest and area.
@@ -38,7 +36,15 @@ Adding new squad is only authorized to admins. If you are authorized admin, add 
 
 My contribution to the Squadify project is squad page, edit squad page, and add squad page. All user interfaces are designed with Semantic UI. All data are synchronized with MongoDB and components are dynamically generated with the Blaze such as slideshow and media information.
 
+<img class="ui image" src="../images/squadify_clubpage.png">
+
+The squad page has a slideshow that is generated with Sementic UI and jquery. It loads pictures from the database and display one by one as the user press left or right button. Email and media links are dynamically locates up to four links for visual pleasure. 
+
+<img class="ui image" src="../images/squadify_editpage.png">
+
 The edit page provides authorized members to edit their squad page. This page pre-loads current data in the database so the member can see current data of the squad page. If the member wants to add more picture, they can put URL of the picture and add into the list above. It will dynamically add URL to the list and show on the page. All changes will be updated once they click the update button. It will push the picture URLs to the database and update rest of the information. The delete button will remove the squad database entirely
+
+<img class="ui image" src="../images/squadify_addpage.png">
 
 The add squad page's UI is basically the same as edit page. only difference is, it's empty form and it creates and inserts new squad database once admin presses the create button. 
 
