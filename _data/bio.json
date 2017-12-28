@@ -106,12 +106,14 @@
     },
     {
       "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, HI",
-      "area": "Associate in Arts - Liberal Arts",
+      "area": "Liberal Arts",
       "studyType": "A.A.",
       "startDate": "",
       "endDate": "2017",
       "gpa": "",
       "courses": [
+        "KOR 290: Korean Language and Culture",
+        "SP 151: Personal and Public Speech",
       ]
     },
   ],
