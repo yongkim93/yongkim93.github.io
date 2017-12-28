@@ -8,7 +8,7 @@
     "website": "https://yongkim93.github.io",
     "summary": "I am a undergraduate student of University of Hawaii at Manoa and studying Computer Science for B.A degree and also studying Academy of Creative Media: Animation for B.A degree as well. I am expecting to graduate in spring 2019 and planing to build a career in game development.",
     "location": {
-      "address": "",
+      "address": "3571 Nipo St",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -34,20 +34,35 @@
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
