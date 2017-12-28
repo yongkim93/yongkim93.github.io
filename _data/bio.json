@@ -66,13 +66,17 @@
   ],
   "skills": [
     {
-      "name": "C, C++, Java, Javascript, HTML/CSS, SQL, C#",
-      "level": "expert",
+      "name": "Languages and Frameworks",
+      "level": "intermediate",
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
+        "HTML/CSS",
+        "SQL",
+        "Meteor",
       ]
     },
     {
@@ -80,21 +84,36 @@
       "level": "beginer",
       "keywords": [
         "Git/GitHub",
-        "TI LaunchPad"
+        "IntelliJ",
+        "Eclipse",
+        "Visual Studio",
+        "Window",
+        "Ubuntu",
+        "MacOS",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.A.",
-      "startDate": "2012-08-01",
+      "startDate": "2017",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, HI",
+      "area": "Associate in Arts - Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "",
+      "endDate": "2017",
+      "gpa": "",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
