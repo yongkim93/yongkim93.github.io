@@ -3,7 +3,7 @@
     "name": "Yongnam Kim",
     "label": "Student",
     "picture": "https://yongkim93.github.io/images/yong.jpg",
-    "email": "Yong4@hawaii.edu",
+    "email": "yong4@hawaii.edu",
     "phone": "808-429-5242",
     "website": "https://yongkim93.github.io",
     "summary": "I am a undergraduate student of University of Hawaii at Manoa and studying Computer Science for B.A degree and also studying Academy of Creative Media: Animation for B.A degree as well. I am expecting to graduate in spring 2019 and planing to build a career in game development.",
@@ -175,16 +175,22 @@
       "endDate": "2017",
       "summary": "Korean food",
       "highlights": [
+        "
       ]
     },
     {
-      "company": "CopyExpress",
+      "company": "CopyExpress Digital Media",
       "position": "General Manager",
       "website": "",
       "startDate": "2013",
       "endDate": "2016",
       "summary": "",
       "highlights": [
+        "Customer Service",
+        "Safety Consciousness",
+        "Attention to Detail",
+        "Communication Skills",
+        "Ability to work under pressure",
       ]
     },
     {
@@ -199,7 +205,7 @@
     },
     {
       "company": "Spero Spera Cafe",
-      "position": "Barista",
+      "position": "Barista and Cashier",
       "website": "",
       "startDate": "2011",
       "endDate": "2012",
@@ -210,7 +216,17 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Korean Tutor",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "LEO Club",
       "website": "",
       "position": "",
       "startDate": "",
@@ -222,7 +238,7 @@
   ],
   "awards": [
     {
-      "title": "",
+      "title": "KWHS Investment Competition",
       "date": "",
       "awarder": "",
       "summary": ""
@@ -230,7 +246,7 @@
   ],
   "references": [
     {
-      "name": "",
+      "name": "Available upon request",
       "reference": ""
     }
   ]
