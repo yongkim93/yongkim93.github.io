@@ -175,7 +175,13 @@
       "endDate": "2017",
       "summary": "Korean food",
       "highlights": [
-        "
+        "Fast-paced Environment",
+        "Customer Service",
+        "Inventory Management",
+        "Physical Strength",
+        "Multitasking",
+        "Daily Sales Report",
+        "Physical Strength",
       ]
     },
     {
@@ -188,9 +194,14 @@
       "highlights": [
         "Customer Service",
         "Safety Consciousness",
-        "Attention to Detail",
-        "Communication Skills",
-        "Ability to work under pressure",
+        "Statistical Marketing Analysis",
+        "Graphic Design Softwares",
+        "Employee and Inventory Management",
+        "Physical Strength",
+        "Retails",
+        "Motivation",
+        "Innovation",
+        "Responsibility",
       ]
     },
     {
@@ -201,6 +212,11 @@
       "endDate": "2013",
       "summary": "",
       "highlights": [
+        "Customer Service",
+        "Communication Skills",
+        "Responsibility",
+        "Time Management",
+        "Multitasking"
       ]
     },
     {
@@ -211,6 +227,8 @@
       "endDate": "2012",
       "summary": "",
       "highlights": [
+        "Customer Service",
+        "Social Skills",
       ]
     }
   ],
@@ -219,29 +237,33 @@
       "organization": "Korean Tutor",
       "website": "",
       "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "dwwwewew",
       "highlights": [
+        "Community Service",
+        "Korean Language",
       ]
     },
     {
       "organization": "LEO Club",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "website": "https://rhsleoclub.weebly.com/",
+      "position": "Volunteer",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "The Leo Club is the community service club designed to give people an opportunity to give back to the community and to gain valuable life skills through diverse events. We do community service that will benefit others and help the community.",
       "highlights": [
+        "Community Service",
+        "Fund Raise",
       ]
     }
   ],
   "awards": [
     {
-      "title": "KWHS Investment Competition",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "KWHS Investment Competition 3rd place",
+      "date": "2011",
+      "awarder": "KWHS",
+      "summary": "The Knowledge@Wharton High School (KWHS) Investment Competition is a free, global, online investment simulation for high school students (9th to 12th grade) and teachers. Students learn about teamwork, communication, risk, diversification, company analysis, industry analysis and investing."
     },
   ],
   "references": [
