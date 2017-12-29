@@ -102,6 +102,12 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ACM 355: Oral Tradition to Screenplay",
+        "ICS 212: Program Structure",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Data Storage and Retrieval",
+        "ICS 435: Machine Learning Fundamentals",
       ]
     },
     {
