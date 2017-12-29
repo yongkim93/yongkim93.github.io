@@ -137,11 +137,18 @@
     },
     {
       "institution": "Roosevelt High School, Honolulu, HI",
+      "area": "General Education",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": [
+      ]
     },
     {
       "institution": "Topyung Middle School, Topyung, Korea",
-      "area": "",
-      "studyType": "",
+      "area": "General Education",
+      "studyType": "Middle School Diploma",
       "startDate": "",
       "endDate": "2008",
       "gpa": "",
@@ -150,8 +157,8 @@
     },
     {
       "institution": "Guri Elementary School, Guri, Korea",
-      "area": "",
-      "studyType": "",
+      "area": "General Education",
+      "studyType": "Elementary School Diploma",
       "startDate": "",
       "endDate": "2005",
       "gpa": "",
