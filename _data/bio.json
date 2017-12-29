@@ -137,13 +137,6 @@
     },
     {
       "institution": "Roosevelt High School, Honolulu, HI",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": "",
-      "courses": [
-      ]
     },
     {
       "institution": "Topyung Middle School, Topyung, Korea",
@@ -179,30 +172,30 @@
     },
     {
       "company": "CopyExpress",
-      "position": "Document Specialist",
+      "position": "General Manager",
       "website": "",
       "startDate": "2013",
-      "endDate": "2015",
+      "endDate": "2016",
       "summary": "",
       "highlights": [
       ]
     },
     {
-      "company": "CopyExpress",
-      "position": "Document Specialist",
+      "company": "Boulangeri Bakery",
+      "position": "Assistant General Manager",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2015",
+      "startDate": "2012",
+      "endDate": "2013",
       "summary": "",
       "highlights": [
       ]
     },
     {
-      "company": "CopyExpress",
-      "position": "Document Specialist",
+      "company": "Spero Spera Cafe",
+      "position": "Barista",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2015",
+      "startDate": "2011",
+      "endDate": "2012",
       "summary": "",
       "highlights": [
       ]
