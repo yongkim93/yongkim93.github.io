@@ -87,7 +87,7 @@
         "IntelliJ",
         "Eclipse",
         "Visual Studio",
-        "Window",
+        "Windows",
         "Ubuntu",
         "MacOS",
       ]
@@ -135,14 +135,44 @@
         "ICS 241: Discrete Math for Computer Science II",
       ]
     },
+    {
+      "institution": "Roosevelt High School, Honolulu, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Topyung Middle School, Topyung, Korea",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2008",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Guri Elementary School, Guri, Korea",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2005",
+      "gpa": "",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
-      "company": "ThankQ Pocha",
-      "position": "server",
+      "company": "ThankQ Pocha Restaurant",
+      "position": "Server, Bartender, Host, and Cashier",
       "website": "",
-      "startDate": "2017-07-01",
-      "endDate": "Present",
+      "startDate": "2016",
+      "endDate": "2017",
       "summary": "Korean food",
       "highlights": [
       ]
@@ -151,11 +181,30 @@
       "company": "CopyExpress",
       "position": "Document Specialist",
       "website": "",
-      "startDate": "2013-05-01",
-      "endDate": "2016-12-30",
+      "startDate": "2013",
+      "endDate": "2015",
       "summary": "",
       "highlights": [
-       
+      ]
+    },
+    {
+      "company": "CopyExpress",
+      "position": "Document Specialist",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "CopyExpress",
+      "position": "Document Specialist",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
