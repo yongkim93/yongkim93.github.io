@@ -102,6 +102,7 @@
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
         "ICS 321: Data Storage and Retrieval",
+        "ICS 355: Security and Trust I",
         "ICS 435: Machine Learning Fundamentals",
       ]
     },
@@ -205,12 +206,12 @@
       ]
     },
     {
-      "organization": "LEO Club",
-      "website": "https://rhsleoclub.weebly.com",
+      "organization": "IEEE Conferences",
+      "website": "https://www.ieee.org/conferences/index.html",
       "position": "Volunteer",
-      "startDate": "2010",
-      "endDate": "2012",
-      "summary": "Volunteered community services in LEO Club to give back to the community and to gain valuable life skills through diverse events.",
+      "startDate": "2018 April",
+      "endDate": "2018 April",
+      "summary": "Volunteered to guid people to conference rooms and help technical issues during the presentation.",
       "highlights": [
       ]
     }
